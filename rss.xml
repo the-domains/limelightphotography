@@ -1,36 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[vernalrotary.com]]></title>
-        <description><![CDATA[vernalrotary.com]]></description>
-        <link>http://www.limelight_photography.com/</link>
+        <title><![CDATA[Limelight Photography]]></title>
+        <description><![CDATA[Limelight Photography]]></description>
+        <link>https://thegrid.ai/limelightphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 02:20:09 GMT</lastBuildDate>
-        <atom:link href="http://www.limelight_photography.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>asdfasdfasdfasdfDZadfsgadfs</p>]]></description>
-            <link>http://www.limelight_photography.com/3a107df2-4d7b-479b-ae6c-5426a280725d/index.html</link>
-            <guid isPermaLink="false">3a107df2-4d7b-479b-ae6c-5426a280725d</guid>
-            <pubDate>Mon, 07 Mar 2016 02:19:54 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 07 Mar 2016 02:21:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/limelightphotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>sadfadsf</p>]]></description>
-            <link>http://www.limelight_photography.com/5e0453e2-13a9-461e-a0db-621a4cb8042b/index.html</link>
+            <link>https://thegrid.ai/limelightphotography/5e0453e2-13a9-461e-a0db-621a4cb8042b/index.html</link>
             <guid isPermaLink="false">5e0453e2-13a9-461e-a0db-621a4cb8042b</guid>
             <pubDate>Mon, 07 Mar 2016 02:16:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>asdfasdfasdfasdf</p>]]></description>
-            <link>http://www.limelight_photography.com/b50d9cf4-8bfb-4331-a907-04b8e6bdeaf3/index.html</link>
+            <link>https://thegrid.ai/limelightphotography/b50d9cf4-8bfb-4331-a907-04b8e6bdeaf3/index.html</link>
             <guid isPermaLink="false">b50d9cf4-8bfb-4331-a907-04b8e6bdeaf3</guid>
             <pubDate>Mon, 07 Mar 2016 02:14:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd708fa7-9e48-45d2-93df-65eae520c408.jpg">]]></description>
-            <link>http://www.limelight_photography.com/f9060365-e86c-4ff0-8294-899858221a0f/index.html</link>
+            <link>https://thegrid.ai/limelightphotography/f9060365-e86c-4ff0-8294-899858221a0f/index.html</link>
             <guid isPermaLink="false">f9060365-e86c-4ff0-8294-899858221a0f</guid>
             <pubDate>Sat, 27 Feb 2016 20:29:28 GMT</pubDate>
         </item>
