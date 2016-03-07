@@ -1,4 +1,4 @@
-name: Vernal Rotary Club
+name: Limelight Photography
 favicon: null
 layout_spectrum: 0.13153063878417015
 typography_spectrum: 0.44420413253828883
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8778449662495404
-  lightness: 0.8600849315989763
-  saturation: 0.43003544863313437
-  rhythmicContrast: 0.05362516362220049
+    - '#ffffff'
+    - '#b6c510'
+    - '#ededb1'
+    - '#000000'
+    - '#868664'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0
 purpose: []
