@@ -1,7 +1,7 @@
 name: Cody Waite
 favicon: null
-layout_spectrum: 0.25376
-typography_spectrum: 0.42584
+layout_spectrum: 0.47531
+typography_spectrum: 0.34798
 title: Cody Waite I Digital Media Professional
 cta:
   domain: null
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#b6c510'
-    - '#ededb1'
+    - '#c21a1d'
+    - '#515151'
     - '#000000'
-    - '#868664'
+    - '#b0b0b0'
   brandStrength: 1
   lightness: 0.5
   saturation: 0.5
